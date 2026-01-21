@@ -28,7 +28,8 @@
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Mathematics" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475656/math.svg" />
 <br />
-#
+
+---
 
 🌱 Currently Learning & Exploring
 
