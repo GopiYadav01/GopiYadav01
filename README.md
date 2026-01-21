@@ -23,12 +23,11 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
-<img align="left" alt="MS Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+<img align="left" alt="Microsoft Excel" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoftexcel/217346" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Mathematics" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475656/math.svg" />
 <br />
-
 #
 
 🌱 Currently Learning & Exploring
