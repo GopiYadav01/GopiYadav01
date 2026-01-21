@@ -19,6 +19,10 @@
 - 🧑‍🧱 Pronouns: **He/Him**
 
 ---
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="40" height="40" alt="Excel"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40" height="40" alt="Power BI"/>
+</p>
 
 🌱 Currently Learning & Exploring
 
